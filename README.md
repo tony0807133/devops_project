@@ -48,4 +48,4 @@ This project demonstrates the CI/CD pipeline implementation for deploying a **st
 - **Operating System:** Ubuntu 24.04 LTS
 
 ---
-
+![cicd Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/cicd.png?raw=true)

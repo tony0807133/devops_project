@@ -3,7 +3,7 @@
 <!--
 Update your image links once you upload screenshots like below:
 
-![Home Page](https://github.com/tony0807133/devops_project/blob/master/assets/screenshots/home.png?raw=true)
+![Home Page](https://github.com/tony0807133/devops_project/screenshots/home.png?raw=true)
 ![About Page](https://github.com/tony0807133/devops_project/blob/master/assets/screenshots/about.png?raw=true)
 ![Shop Page](https://github.com/tony0807133/devops_project/blob/master/assets/screenshots/shop.png?raw=true)
 ![Contact Page](https://github.com/tony0807133/devops_project/blob/master/assets/screenshots/contact.png?raw=true)

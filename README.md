@@ -1,9 +1,9 @@
 # 🚀 DevOps_Project – Static Website Deployment with Docker, Git & Jenkins
 
-![Home Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/home.png?raw=true)
-![About Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/about.png?raw=true)
-![Shop Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/shop.png?raw=true)
-![Contact Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/contact.png?raw=true)
+![Home Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/home.jpg?raw=true)
+![About Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/about.jpg?raw=true)
+![Shop Page](https://github.com/tony0807133/devops_project/blob/master/screenshots/shop.jpg?raw=true)
+
 
 
 ---
